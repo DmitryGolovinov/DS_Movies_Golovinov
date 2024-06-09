@@ -95,7 +95,7 @@
 ### Демонстрация проекта
 
 - [x] **Streamlit**: Имеется демонстрация с помощью Streamlit, которую нужно запускать вручную.
-- [x] **Streamlit проект размещен в интернете**: Streamlit-проект размещен в интернете.
+- [] **Streamlit проект размещен в интернете**: Streamlit-проект НЕ размещен в интернете, но спокойно открывается локально
 
 ### Машинное обучение
 
@@ -111,8 +111,15 @@
 
 ```sh
 pip install geopandas geopy pandas numpy requests seaborn matplotlib folium networkx time BeautifulSoup4 selenium scikit-learn lightgbm catboost statsmodels duckdb warnings streamlit textblob
+```
+---
 
---- 
+## Запуск проекта
+Для запуска проекта выполните команду:
+
+```sh
+streamlit run final_project.ipynb
+```
 
 ## Контактная информация
 Если у вас есть вопросы или предложения, пожалуйста, свяжитесь со мной по электронной почте: [dgolovinov@nes.ru]
