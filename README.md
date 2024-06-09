@@ -5,6 +5,8 @@
 ### Совместная программа по экономике НИУ ВШЭ и РЭШ
 ### Курс: "Наука о данных"
 
+Для просмотра финальной карты https://colab.research.google.com/drive/1m8Cb1X543H5G-GE8tcjRackWNYSnvGRa?usp=sharing
+
 ---
 
 ## Описание проекта
